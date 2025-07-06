@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "iPhone 13", "price": 799, "category": "Electronics" },
+    { "id": 2, "name": "Leather Wallet", "price": 45, "category": "Accessories" },
+    { "id": 3, "name": "MacBook Air", "price": 1099, "category": "Electronics" },
+    { "id": 4, "name": "Water Bottle", "price": 20, "category": "Kitchen" }
+  ]
+}
